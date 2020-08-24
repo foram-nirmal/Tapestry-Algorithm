@@ -34,8 +34,8 @@ The arguments can be of the form:
 
 Building and Execution instructions for Bonus part
 
-Naviagate into the folder Proj3
-cd Proj3
+Naviagate into the folder Proj3 Bonus
+cd Proj3 Bonus
 
 Run the exs file
 time mix run proj3.exs arg1 arg2 arg3
